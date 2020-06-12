@@ -3,5 +3,7 @@ MY FIRST PAGE
 <?php
 
 print `ifconfig`
+  </br>
+  <img src= "https://my-tf-test-bucket-web.s3.ap-south-1.amazonaws.com/new_object_key" >
 
 ?>
